@@ -57,3 +57,4 @@ Thanks for using our bot 😺
    - Special thanks to [LonamiWebs](https://github.com/LonamiWebs/Telethon/) for Telethon library.
    - To all devs of these [Userbots](https://github.com/TgCatUB/catuserbot/tree/bugs#inspiration)
    - Finally to all [contributors of Catuserbot](https://github.com/TgCatUB/catuserbot/graphs/contributors)
+   - This fork has also some small changes by [me](https://github.com/Castanto69)
